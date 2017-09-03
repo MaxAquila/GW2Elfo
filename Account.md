@@ -3,4 +3,5 @@ by Elfo Bianco
 
 ### About
 * Info
+* Bank
 * Wallet
