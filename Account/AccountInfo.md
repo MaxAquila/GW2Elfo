@@ -1,6 +1,11 @@
 # GW2Elfo ─ Account Info
 by Elfo Bianco
 
+#### Permissions Required
+* account
+* characters (optional)
+* progression (optional)
+
 ### About
 * Account name
 * Account world/server
