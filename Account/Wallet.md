@@ -1,4 +1,4 @@
-# GW2Elfo ─ Account Wallet
+# GW2Elfo ─ Wallet
 by Elfo Bianco
 
 #### Permissions Required
@@ -6,4 +6,4 @@ by Elfo Bianco
 * wallet
 
 ### About
-* Account Wallet
+* Personal wallet with the amout of all your currencies
