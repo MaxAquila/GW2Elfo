@@ -1,4 +1,4 @@
-# GW2Elfo ─ Account Bank
+# GW2Elfo ─ Bank
 by Elfo Bianco
 
 #### Permissions Required
@@ -6,4 +6,5 @@ by Elfo Bianco
 * inventories
 
 ### About
-* Account Bank
+* Items in the bank
+* Subdivision of each bank tab
