@@ -6,4 +6,4 @@ by Elfo Bianco
 * wallet
 
 ### About
-* Personal wallet with the amout of all your currencies
+* Personal wallet with the amout of all currencies
