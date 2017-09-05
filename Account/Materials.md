@@ -1,4 +1,4 @@
-# GW2Elfo ─ Account Materials
+# GW2Elfo ─ Materials
 by Elfo Bianco
 
 #### Permissions Required
@@ -6,4 +6,4 @@ by Elfo Bianco
 * inventories
 
 ### About
-* Account Materials
+* Amount of materials in your storage
