@@ -6,3 +6,4 @@ by Elfo Bianco
 * Bank
 * Materials
 * Wallet
+* Wardrobe
