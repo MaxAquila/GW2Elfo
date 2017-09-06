@@ -5,6 +5,7 @@ by Elfo Bianco
 * Info
 * Bank
 * Dyes
+* Finishers
 * Materials
 * Miniatures
 * Wallet
