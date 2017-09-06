@@ -5,5 +5,6 @@ by Elfo Bianco
 * Info
 * Bank
 * Materials
+* Miniatures
 * Wallet
 * Wardrobe
