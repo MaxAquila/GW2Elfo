@@ -10,5 +10,6 @@ by Elfo Bianco
 * Masteries
 * Materials
 * Miniatures
+* Outfits
 * Wallet
 * Wardrobe
