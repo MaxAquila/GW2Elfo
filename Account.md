@@ -6,6 +6,7 @@ by Elfo Bianco
 * Bank
 * Dyes
 * Finishers
+* Masteries
 * Materials
 * Miniatures
 * Wallet
