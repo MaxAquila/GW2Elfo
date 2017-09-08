@@ -11,6 +11,7 @@ by Elfo Bianco
 * Masteries
 * Materials
 * Miniatures
+* Musical Instruments
 * Outfits
 * Wallet
 * Wardrobe
