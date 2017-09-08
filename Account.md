@@ -13,5 +13,6 @@ by Elfo Bianco
 * Miniatures
 * Musical Instruments
 * Outfits
+* Toys
 * Wallet
 * Wardrobe
