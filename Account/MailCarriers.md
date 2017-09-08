@@ -1,4 +1,4 @@
-# GW2Elfo ─ MailCarriers
+# GW2Elfo ─ Mail Carriers
 by Elfo Bianco
 
 #### Permissions Required
