@@ -3,6 +3,7 @@ by Elfo Bianco
 
 ### About
 * Info
+* Achievements
 * Bank
 * Dyes
 * Endless Tonics
