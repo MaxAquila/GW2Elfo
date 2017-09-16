@@ -16,6 +16,7 @@ by Elfo Bianco
 * Musical Instruments
 * Outfits
 * Recipes
+* Shared Inventory
 * Titles
 * Toys
 * Upgrades
