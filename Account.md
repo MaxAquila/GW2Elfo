@@ -18,5 +18,6 @@ by Elfo Bianco
 * Recipes
 * Titles
 * Toys
+* Upgrades
 * Wallet
 * Wardrobe
