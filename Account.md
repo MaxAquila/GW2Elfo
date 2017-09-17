@@ -2,6 +2,7 @@
 by Elfo Bianco
 
 ### About
+20 pages
 * Info
 * Achievements
 * Bank
