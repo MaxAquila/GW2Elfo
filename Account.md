@@ -2,7 +2,7 @@
 by Elfo Bianco
 
 ### About
-20 pages
+21 pages
 * Info
 * Achievements
 * Bank
@@ -14,6 +14,7 @@ by Elfo Bianco
 * Masteries
 * Materials
 * Miniatures
+* Mist Champions
 * Musical Instruments
 * Outfits
 * Recipes
