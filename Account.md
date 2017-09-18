@@ -2,7 +2,7 @@
 by Elfo Bianco
 
 ### About
-22 pages
+23 pages
 * Info
 * Achievements
 * Bank
@@ -17,6 +17,7 @@ by Elfo Bianco
 * Mist Champions
 * Musical Instruments
 * Outfits
+* PvP League
 * PvP Stats
 * Recipes
 * Shared Inventory
