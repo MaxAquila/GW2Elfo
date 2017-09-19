@@ -2,7 +2,7 @@
 by Elfo Bianco
 
 ### About
-23 pages
+24 pages
 * Info
 * Achievements
 * Bank
@@ -10,6 +10,7 @@ by Elfo Bianco
 * Endless Tonics
 * Finishers
 * Gliders
+* Home Instance
 * Mail Carriers
 * Masteries
 * Materials
