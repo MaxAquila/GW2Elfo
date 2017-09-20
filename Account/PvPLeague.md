@@ -5,6 +5,9 @@ by Elfo Bianco
 * account
 * pvp
 
+#### Settings
+* Region
+
 ### About
 * Personal standing
 * Leaderboard
