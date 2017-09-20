@@ -6,6 +6,9 @@ by Elfo Bianco
 * characters (optional)
 * progression (optional)
 
+#### Settings
+* Character sort
+
 ### About
 * Account name
 * Account world/server
