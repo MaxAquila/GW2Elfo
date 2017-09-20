@@ -6,7 +6,7 @@ by Elfo Bianco
 * unlocks
 
 #### Settings
-* Dye color (cloth, leather, metal)
+* Dye color
 
 ### About
 * Colors unlocked in your account
