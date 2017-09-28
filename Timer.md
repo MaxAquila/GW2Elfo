@@ -6,4 +6,5 @@ by Elfo Bianco
 * Timers
 * Dry Top
 * Heart of Maguuma
+* Living World Season 3
 * World Bosses
