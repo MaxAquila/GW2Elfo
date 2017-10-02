@@ -1,0 +1,10 @@
+# GW2Elfo ─ Story
+by Elfo Bianco
+
+### About
+* Personal Story
+* Living World Season 1
+* Living World Season 2
+* Heart of Thorns
+* Living World Season 3
+* Path of Fire
