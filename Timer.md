@@ -2,7 +2,7 @@
 by Elfo Bianco
 
 ### About
-4 pages
+5 pages
 * Timers
 * Dry Top
 * Heart of Maguuma
