@@ -20,6 +20,3 @@ by Elfo Bianco
 * Guilds leader/tag/name
 * Characters profession/race/gender sheet (API_key/permissions: characters)
 * Characters list per gender (API_key/permissions: characters)
-
-### Issues
-* "Account access" will not work with the future API:2/Account
