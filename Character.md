@@ -10,6 +10,7 @@ by Elfo Bianco
 * Character sort
 
 ### About
-2 pages
+3 pages
 * Character
+* Inventory
 * Story
