@@ -4,7 +4,7 @@ by Elfo Bianco
 #### Permissions Required
 * account
 * characters
-* builds
+* builds (optional)
 
 #### Settings
 * Character sort
