@@ -10,7 +10,8 @@ by Elfo Bianco
 * Character sort
 
 ### About
-7 pages
+8 pages
+* Builds
 * Character
 * Dungeon Story
 * Equipment
