@@ -2,6 +2,7 @@
 by Elfo Bianco
 
 #### Permissions Required
+* builds
 * inventories (optional)
 
 ### About
