@@ -10,12 +10,13 @@ by Elfo Bianco
 * Character sort
 
 ### About
-8 pages
+9 pages
 * Builds
 * Character
 * Dungeon Story
 * Equipment
 * Inventory
+* Map Completion
 * Story
 * Training
 * WvW Abilities
