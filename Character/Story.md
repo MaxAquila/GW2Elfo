@@ -8,3 +8,4 @@ by Elfo Bianco
 * Heart of Thorns
 * Living World Season 3
 * Path of Fire
+* Living World Season 4
