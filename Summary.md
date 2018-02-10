@@ -11,5 +11,6 @@ by Elfo Bianco
 * Character sort
 
 ### About
-1 pages
+2 pages
+* Dungeons
 * Equipment
