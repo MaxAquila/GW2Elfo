@@ -5,18 +5,21 @@ by Elfo Bianco
 * account
 * characters
 * builds (optional)
+* inventories (optional)
+* progression (optional)
 
 #### Settings
 * Character sort
 
 ### About
-10 pages
+11 pages
 * Builds
 * Character
 * Dungeon Story
 * Equipment
 * Inventory
 * Map Completion
+* SAB Super Adventure Box
 * Story
 * Training
 * World Completion
