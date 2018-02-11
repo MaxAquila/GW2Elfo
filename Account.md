@@ -1,6 +1,16 @@
 # GW2Elfo ─ Account
 by Elfo Bianco
 
+#### Permissions Required
+* account
+* characters
+* guilds
+* inventories
+* progression
+* pvp
+* unlocks
+* wallet
+
 ### About
 24 pages
 * Info
