@@ -3,7 +3,7 @@ by Elfo Bianco
 
 #### Permissions Required
 * account
-* characters (optional)
+* characters
 * inventories
 
 ### About
