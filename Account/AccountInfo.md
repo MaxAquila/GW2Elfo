@@ -3,8 +3,8 @@ by Elfo Bianco
 
 #### Permissions Required
 * account
-* characters (optional)
-* progression (optional)
+* characters
+* progression
 
 #### Settings
 * Character sort
