@@ -2,8 +2,10 @@
 by Elfo Bianco
 
 #### Permissions Required
+* account
 * builds
-* inventories (optional)
+* characters
+* inventories
 
 ### About
 * Equipment PvE / WvW
