@@ -1,6 +1,10 @@
 # GW2Elfo ─ Character
 by Elfo Bianco
 
+#### Permissions Required
+* account
+* characters
+
 ### About
 * Level
 * Deaths
