@@ -11,7 +11,8 @@ by Elfo Bianco
 * Character sort
 
 ### About
-3 pages
+4 pages
 * Dungeons
 * Equipment
+* PvP League
 * Story
