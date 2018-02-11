@@ -2,6 +2,8 @@
 by Elfo Bianco
 
 #### Permissions Required
+* account
+* characters
 * inventories
 
 ### About
