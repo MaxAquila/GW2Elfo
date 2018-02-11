@@ -2,7 +2,9 @@
 by Elfo Bianco
 
 #### Permissions Required
+* account
 * builds
+* characters
 
 ### About
 * Skill Trainings
