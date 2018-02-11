@@ -1,4 +1,4 @@
-# GW2Elfo ─ Dungeon Story
+# GW2Elfo ─ Summary Dungeon Story
 by Elfo Bianco
 
 ### About
