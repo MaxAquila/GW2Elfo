@@ -3,7 +3,7 @@ by Elfo Bianco
 
 #### Permissions Required
 * account
-* inventory (optional)
+* inventory
 
 ### About
 * Account upgrades
