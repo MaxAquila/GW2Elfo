@@ -6,6 +6,7 @@ by Elfo Bianco
 * characters
 * builds (optional)
 * inventories (optional)
+* pvp (optional)
 
 #### Settings
 * Character sort
