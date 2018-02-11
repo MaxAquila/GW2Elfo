@@ -3,10 +3,10 @@ by Elfo Bianco
 
 #### Permissions Required
 * account
+* builds
 * characters
-* builds (optional)
-* inventories (optional)
-* progression (optional)
+* inventories
+* progression
 
 #### Settings
 * Character sort
