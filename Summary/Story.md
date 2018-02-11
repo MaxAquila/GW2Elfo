@@ -1,6 +1,10 @@
 # GW2Elfo ─ Summary Story
 by Elfo Bianco
 
+#### Permissions Required
+* account
+* characters
+
 ### About
 * Personal Story
 * Living World Season 1
