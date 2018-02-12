@@ -6,14 +6,17 @@ by Elfo Bianco
 * builds
 * characters
 * inventories
+* progression
 * pvp
 
 #### Settings
 * Character sort
 
 ### About
-4 pages
+6 pages
+* World Completion
 * Dungeons
 * Equipment
 * PvP League
+* SAB Super Adventure Box
 * Story
