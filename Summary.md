@@ -13,7 +13,8 @@ by Elfo Bianco
 * Character sort
 
 ### About
-7 pages
+8 pages
+* Characters
 * World Completion
 * Map Completion
 * Dungeons
