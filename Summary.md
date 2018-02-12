@@ -13,8 +13,9 @@ by Elfo Bianco
 * Character sort
 
 ### About
-6 pages
+7 pages
 * World Completion
+* Map Completion
 * Dungeons
 * Equipment
 * PvP League
