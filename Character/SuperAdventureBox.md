@@ -12,4 +12,5 @@ by Elfo Bianco
 * Skills Tier 1
 * Skills Tier 2
 * Songs
-* Worlds and Zones
+* World 1
+* World 2
