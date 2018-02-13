@@ -13,7 +13,7 @@ by Elfo Bianco
 * Character sort
 
 ### About
-8 pages
+9 pages
 * Characters
 * World Completion
 * Map Completion
@@ -22,3 +22,4 @@ by Elfo Bianco
 * PvP League
 * SAB Super Adventure Box
 * Story
+* WvW Abilities
