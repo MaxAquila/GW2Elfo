@@ -13,12 +13,14 @@ by Elfo Bianco
 * Character sort
 
 ### About
-9 pages
+11 pages
 * Characters
+* Builds
 * World Completion
 * Map Completion
 * Dungeons
 * Equipment
+* Inventory Bags
 * PvP League
 * SAB Super Adventure Box
 * Story
