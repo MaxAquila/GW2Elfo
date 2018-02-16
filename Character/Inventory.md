@@ -1,4 +1,4 @@
-# GW2Elfo ─ Character
+# GW2Elfo ─ Inventory
 by Elfo Bianco
 
 #### Permissions Required
