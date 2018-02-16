@@ -6,9 +6,10 @@ by Elfo Bianco
 * characters
 
 ### About
+* Biography
 * Birthday gifts
 * Characters
-* Character's birthday
+* Character's birthday / age
 * Deaths
 * Level
 * Title
