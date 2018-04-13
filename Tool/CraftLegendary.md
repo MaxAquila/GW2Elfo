@@ -10,6 +10,10 @@ by Elfo Bianco
 
 ### About
 * Legendary items crafting steps
+ * Armors
+ * Back items
+ * Trinkets
+ * Weapons
 
 * WITH API KEY
   * Missing raw materials
