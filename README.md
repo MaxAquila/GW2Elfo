@@ -1,9 +1,11 @@
 # GW2 Elfo
-Web Application about Guild Wars 2 by Elfo Bianco
+Web Application about Guild Wars 2 by Massimiliano Asti aka Elfo Bianco
 
-Copyright © 2017
+Copyright © 2019
 
 WORK IN PROGRESS...
+
+> Most of the web application requires a Google account and an API key with all permissions is strongly recommended to avoid any limitations on use.
 
 ### About the repository
 * This repository contains files with the features available in the Web Application and development projects
