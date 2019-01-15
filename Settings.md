@@ -12,7 +12,7 @@ by Elfo Bianco
 * Character sort
   * by Profession
   * by Name
-  > How the list of characters appear in some menu/pages.
+  > How the list of characters appears in some menu/pages.
 * Dye color
   * Cloth
   * Leather
