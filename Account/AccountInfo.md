@@ -1,6 +1,8 @@
 # GW2Elfo ─ Account Info
 by Elfo Bianco
 
+> General information of your account.
+
 #### Permissions Required
 * account
 * characters
@@ -10,13 +12,19 @@ by Elfo Bianco
 * Character sort
 
 ### About
-* Account name
-* Account world/server
-* Account creation date
-* Account access
-* Fractals of the Mists level (API_key/permissions: progression)
-* WvW rank (API_key/permissions: progression)
-* Commander (API_key/permissions: progression)
-* Guilds leader/tag/name
-* Characters profession/race/gender sheet (API_key/permissions: characters)
-* Characters list per gender (API_key/permissions: characters)
+* Account:
+  * account name
+  * world/server
+  * creation date (UTC)
+  * game access (game and expansions)
+* Fractals of the Mists level _**(API_key/permissions: progression)**_
+* WvW _**(API_key/permissions: progression)**_:
+  * rank
+  * commander tag
+* Guilds:
+  * check if you leader of a guild
+  * guild tag
+  * guild name
+* Characters _**(API_key/permissions: characters)**_:
+  * profession/race/gender sheet
+  * list per gender
