@@ -27,4 +27,5 @@ by Elfo Bianco
   * guild name
 * Characters _**(API_key/permissions: characters)**_:
   * profession/race/gender sheet
-  * list per gender
+  * list by gender
+  * count by gender
