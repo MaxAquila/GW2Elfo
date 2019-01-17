@@ -6,5 +6,9 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Finishers unlocked in your account
-* Permanent and consumable finishers
+* Permanent Finishers:
+  * percentage of unlocked
+  * available
+  * unlocked
+* Consumable Finishers:
+  * quantity
