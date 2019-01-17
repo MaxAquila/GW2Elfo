@@ -1,6 +1,8 @@
 # GW2Elfo ─ Dyes
 by Elfo Bianco
 
+> All dyes available and unlocked.
+
 #### Permissions Required
 * account
 * unlocks
@@ -9,4 +11,7 @@ by Elfo Bianco
 * Dye color
 
 ### About
-* Colors unlocked in your account
+* Total unlocked dyes
+* Dyes by rarity
+* Dyes available
+* Dyes unlocked
