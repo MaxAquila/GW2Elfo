@@ -1,7 +1,7 @@
 # GW2Elfo ─ Dyes
 by Elfo Bianco
 
-> All dyes available and unlocked.
+> All dyes, available and unlocked.
 
 #### Permissions Required
 * account
