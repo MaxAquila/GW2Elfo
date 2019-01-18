@@ -6,5 +6,11 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Unlocked mist champions
-* Mist champions stats and description
+* Mist Champions:
+  * percentage of unlocked
+  * name
+  * type
+  * description
+  * available
+  * unlocked
+  * stats
