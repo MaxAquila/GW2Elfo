@@ -6,4 +6,8 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Miniatures in account wardrobe
+* Miniatures:
+  * percentage of unlocked
+  * available
+  * unlocked
+  * item rarity
