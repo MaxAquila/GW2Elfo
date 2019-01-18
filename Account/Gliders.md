@@ -6,4 +6,8 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Gliders unlocked in your account
+* Gliders:
+  * percentage of unlocked
+  * available
+  * unlocked
+  * item rarity
