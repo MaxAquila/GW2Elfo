@@ -6,4 +6,9 @@ by Elfo Bianco
 * wallet
 
 ### About
-* Personal wallet with the amout of all currencies
+* Currencies:
+  * name
+  * description
+  * icon
+* Wallet:
+  * value (with thousand separator)  
