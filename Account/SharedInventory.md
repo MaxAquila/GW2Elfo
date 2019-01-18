@@ -13,9 +13,9 @@ by Elfo Bianco
 * Shared inventory slots available
 * Free slots available
 * Items in shared inventory:
-  * Count remaining uses
-  * Count stack
-  * Item rarity
+  * count remaining uses
+  * count stack
+  * item rarity
 * Locked slots:
-  * Game requirement
-  * Purchase in Gem Store
+  * game requirement
+  * purchase in Gem Store
