@@ -6,4 +6,7 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Unlocked titles
+* Titles:
+  * percentage of unlocked
+  * available
+  * unlocked
