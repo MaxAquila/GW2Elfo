@@ -6,4 +6,8 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Mail Carriers unlocked in your account
+* Mail Carriers:
+  * percentage of unlocked
+  * available
+  * unlocked
+  * item rarity
