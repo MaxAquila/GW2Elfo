@@ -6,4 +6,6 @@ by Elfo Bianco
 * inventories
 
 ### About
-* Amount of materials in your storage
+* Materials:
+  * count stack
+  * item rarity
