@@ -6,4 +6,8 @@ by Elfo Bianco
 * unlocks
 
 ### About
-* Outfits unlocked in your account
+* Outfits:
+  * percentage of unlocked
+  * available
+  * unlocked
+  * item rarity
