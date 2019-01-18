@@ -11,7 +11,7 @@ by Elfo Bianco
 * Bank tabs available
 * Free slots available
 * Items in the bank:
-  * Count remaining uses
-  * Count stack
-  * Item rarity
+  * count remaining uses
+  * count stack
+  * item rarity
 * Subdivision of each bank tab
