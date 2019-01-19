@@ -8,6 +8,8 @@ by Elfo Bianco
 * unlocks
 
 ### About
+* Total recipes learned from item
+* Total recipes for the discipline
 * Recipes:
   * check if learned
   * output item name
