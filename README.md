@@ -1,6 +1,8 @@
 # GW2 Elfo
 Web Application about Guild Wars 2 by Massimiliano Asti aka Elfo Bianco
 
+⛔ Archived ─ 06 Sep 2020 ⛔
+
 Copyright © 2019
 
 WORK IN PROGRESS...
